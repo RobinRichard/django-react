@@ -1,5 +1,5 @@
 node_modules/
 __pycache__
-env/
+django-react-env/
 frontend/static/frontend/
 *.sqlite3
